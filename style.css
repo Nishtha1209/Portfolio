@@ -1,0 +1,17 @@
+body{
+  background-color: #fffff;
+}
+.mylogo{
+  height: 70px;
+  padding-top: 5px;
+}
+.github{
+  height: 20px;
+  padding-left: 10px;
+}
+.skills{
+  height: 50px;
+}
+a:hover{
+  background-color: #edf2fb;
+}
